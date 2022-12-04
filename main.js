@@ -19,7 +19,7 @@
 })()
 
 function pay(){
-  window.open("upi://pay?pn=PaperBoatGraphics&amp;pa=paperboat4u@oksbi")
+  window.open("upi/Josh/Josh@ybl/15")
 }
 function btn(){
   window.open("developmen fund.html")
